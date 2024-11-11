@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "*.env": "properties",
+    ".env": "shellscript",
+    "*.props": "shellscript",
+    "stdbool.h": "c",
+    "nvic.h": "c",
+    "*.tcc": "cpp",
+    "fstream": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp"
+  }
+}
